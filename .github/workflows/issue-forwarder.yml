@@ -1,0 +1,22 @@
+name: Forward Issue to Another Repo
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  forward-issue:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create issue in target repo
+        uses: peter-evans/create-issue@v5
+        with:
+          title: "${{ github.event.issue.title }}"
+          body: |
+            Original issue by @${{ github.event.issue.user.login }} in ${{ github.repository }}
+
+            ---
+            ${{ github.event.issue.body }}
+          labels: agenthack2026
+          token: ${{ secrets.TARGET_REPO_PAT }}
+          repository: rabwill/hack-test
