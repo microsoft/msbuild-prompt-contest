@@ -1,0 +1,24 @@
+name: Forward new issues to Copilot Prompt repo
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  forward:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create issue in Copilot Prompt repo
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.TARGET_REPO_PAT }}
+          script: |
+            const title = context.payload.issue.title;
+            const body = `Original entry by @${context.payload.issue.user.login} in ${context.repo.owner}/${context.repo.repo}\n\n---\n${context.payload.issue.body}`;
+            await github.rest.issues.create({
+              owner: 'pnp',
+              repo: 'copilot-prompts',
+              title: title,
+              body: body,
+              labels: ['agentcontest2025']
+            });
