@@ -9,6 +9,14 @@ assignees: ''
 
 # 🚀 Agent Instructions Submission
 
+## 👩‍💻 Author Information  
+**Name: \* (required)** _[Your name or GitHub handle]_  
+**From US: \* (required)**  _[  ] (Please mark x if you are currently living in US)_
+
+**GitHub Profile:** _[Your GitHub link]_  
+**Twitter/LinkedIn (optional):** _[Your social links]_  
+**Anything else?** _[Any additional notes or credit]_
+
 ## 🎯 Title  
 _A catchy and descriptive title for your instruction!_
 
@@ -35,9 +43,3 @@ _Select the category that best fits your prompt idea (add x inside [ ] like this
 - [ ] 🏥 **Healthcare & Wellbeing** – AI for mental health, fitness, and well-being support  
 - [ ] 🌎 **Other** – If your idea doesn’t fit the above, tell us what it’s about!  
 ---
-
-## 👩‍💻 Author Information  
-**Name:** _[Your name or GitHub handle]_  
-**GitHub Profile:** _[Your GitHub link]_  
-**Twitter/LinkedIn (optional):** _[Your social links]_  
-**Anything else?** _[Any additional notes or credit]_
