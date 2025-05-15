@@ -11,7 +11,7 @@ assignees: ''
 
 ## 👩‍💻 Author Information  
 **Name: \* (required)** _[Your name or GitHub handle]_  
-**From US: \* (required)**  _[  ] (Please mark x if you are currently living in US)_
+From US: * (required) [ ] (Please mark x if you are currently a resident of the United States)
 
 **GitHub Profile:** _[Your GitHub link]_  
 **Twitter/LinkedIn (optional):** _[Your social links]_  
