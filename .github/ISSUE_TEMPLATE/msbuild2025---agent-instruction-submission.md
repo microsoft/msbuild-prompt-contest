@@ -10,15 +10,17 @@ assignees: ''
 # 🚀 Agent Instructions Submission
 
 ## 👩‍💻 Author Information  
-**Name: \* (required)** _[Your name or GitHub handle]_  
-From US: * (required) [ ] (Please mark x if you are currently a resident of the United States)
+**First and Last Name: \* (required):** _[Your first and last name]_  
+**US Resident: * (required)** [ ] (Please mark x if you are currently a resident of the United States)
 
-**GitHub Profile:** _[Your GitHub link]_  
-**Twitter/LinkedIn (optional):** _[Your social links]_  
+**GitHub Profile: * (required)** _[Your GitHub profile link]_  
+**LinkedIn Profile: * (required)** _[Your LinkedIn profile link]_  
+
+**Twitter/X Profile (optional):** _[Your Twitter/X profile link]_  
 **Anything else?** _[Any additional notes or credit]_
 
 ## 🎯 Title  
-_A catchy and descriptive title for your instruction!_
+_A catchy and descriptive title for your instructions!_
 
 > _Example: "AI Dungeon Master Agent"_
 
