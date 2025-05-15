@@ -1,33 +1,20 @@
 
-<img width="1206" alt="Prompt Contest GitHub Banner (1)" src="https://github.com/user-attachments/assets/73855da0-a8ed-48e0-9589-6b6aa145cbf3" />
+<img width="1206" alt="Prompt Contest GitHub Banner (2)" src="https://github.com/user-attachments/assets/b6becc89-bacd-4fbe-9610-950b6adb40d2" />
 
 ## Contest Details
 
 ## How to Submit
+Before submitting, read through the eligibility guidance and make sure you understand the requirements.
+
+Then, submit your prompt as an issue using the **MSBUILD2025 - Agent Instruction Submission** [issue template](https://github.com/microsoft/msbuild-prompt-contest/issues/new?template=msbuild2025---agent-instruction-submission.md). Fill out every field in the issue template to ensure your submission is complete.
 
 ## Judging and Prizes
+Prompt submissions will be evaluated by a panel of judges, including Microsoft VPs, product managers, and developer advocates. Judging criteria will include **creativity** and **applicability**.
+
+There will be three winners.
+* 🥇 First Place: 
+* 🥈 Second Place: 
+* 🥉 Third Place: $200 in Microsoft Store credits
 
 ## Learning Resources
 Need help with prompting? Follow [our hands-on lab](https://aka.ms/agent-instructions) to learn how to improve your agent instructions.
-
-## Contributing
-
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
-
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
-
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
-
-## Trademarks
-
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
