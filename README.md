@@ -31,6 +31,13 @@ There will be three winners.
 
 Please reference [aka.ms/CanIWin](https://aka.ms/CanIWin) for eligibility. You must be a resident of the United States to be eligible to win a Surface laptop.
 
+The winner will also get a digital badge! All you have to do is register for the M365 & Power Platform Community Recognition Program - [https://aka.ms/community/recognition-register](https://aka.ms/community/recognition-register) along with your agent instructions submission. If you win any of the three places, we will issue you the badge 🎖️.
+
+![image](https://github.com/user-attachments/assets/df15c13c-764d-4d47-a365-a3df550c9c8e)
+
+
+
+
 ## 💡 Learning Resources
 Need help with prompting? Follow [our hands-on lab](https://aka.ms/agent-instructions) to learn how to improve your agent instructions.
 
