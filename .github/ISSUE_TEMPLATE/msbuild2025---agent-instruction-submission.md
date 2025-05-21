@@ -2,7 +2,7 @@
 name: MSBUILD2025 - Agent Instruction Submission
 about: Agent Instruction Submission template for MSBUILD 2025
 title: 'MSBUILD2025: Agent Instruction Submission - '
-labels: msbuildagentcontest
+labels: ''
 assignees: ''
 
 ---
