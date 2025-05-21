@@ -1,5 +1,5 @@
 
-<img width="1206" alt="Prompt Contest GitHub Banner (4)" src="https://github.com/user-attachments/assets/62127e5e-121b-4ee8-a752-d27b77a022ab" />
+<img width="1206" alt="Prompt Contest GitHub Banner (4)" src="https://github.com/user-attachments/assets/3738293a-6c33-4ad4-897d-2e7d0aea6fda" />
 
 ## ✨ Contest Details
 Welcome to Microsoft's **Best Agent Instructions contest** as part of [Microsoft Build 2025](https://build.microsoft.com/home). 
