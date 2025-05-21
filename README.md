@@ -18,7 +18,7 @@ The contest is open from May 19 to May 21. The **submission deadline is Wednesda
 ## ✍️ How to Submit
 Before submitting, read through the [eligibility guidance](https://aka.ms/CanIWin) and make sure you understand the requirements.
 
-# Contest is closed 
+<h1 style="color:red"> Contest is closed </h1>
 
 
 ## 🏆 Judging and Prizes
