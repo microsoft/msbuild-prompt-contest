@@ -18,7 +18,7 @@ The contest is open from May 19 to May 21. The **submission deadline is Wednesda
 ## ✍️ How to Submit
 Before submitting, read through the [eligibility guidance](https://aka.ms/CanIWin) and make sure you understand the requirements.
 
-Then, submit your prompt as an issue using the **MSBUILD2025 - Agent Instruction Submission** [issue template](https://github.com/microsoft/msbuild-prompt-contest/issues/new?template=msbuild2025---agent-instruction-submission.md). Fill out every field in the issue template to ensure your submission is complete.
+# Contest is closed 
 
 
 ## 🏆 Judging and Prizes
